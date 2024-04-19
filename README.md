@@ -46,8 +46,7 @@ cd sorting-visualization
 ```
 3.Open index.html in a web browser to view the application.
 ## Demo
-
-Insert gif or link to demo
+https://sorting-visualizer-gilt-ten.vercel.app/
 
 
 ## Contributing
